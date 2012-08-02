@@ -36,4 +36,4 @@ while True:
         our_hero.go_west()
         print(our_hero)
     else:     
-        print('TRY AGAIN?')
+        print('Choice not valid, Try again')
