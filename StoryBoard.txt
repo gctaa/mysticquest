@@ -149,7 +149,7 @@ This at one point was the Dungeon, and is now nothing but a dark basement filled
 ***
 Yard
 ***
-The Yard looks like it hasn’t been trimmed in ages. The overgrown grass has covered most of the paths and trees have grown. The Yard look dreary and you don’t feel like staying any longer. You feel well after leaving the abandoned house. To the  west you see an entrance to a forest, which looks peaceful. To the south you see a path leading to an unknown destination.
+The Yard looks like it has not been trimmed in ages. The overgrown grass has covered most of the paths and trees have grown. The Yard look dreary and you do not feel like staying any longer. You feel well after leaving the abandoned house. To the  west you see an entrance to a forest, which looks peaceful. To the south you see a path leading to an unknown destination.
 ***
 {'N': 0,
 'S': 42,
@@ -208,7 +208,7 @@ There is a path leading south.
 ***
 Western Forest
 ***
-It’s the Western part of the forest...
+It is the Western part of the forest...
 ***
 {'E': 19,
 'S': 21}
@@ -405,7 +405,7 @@ A giant foretress of doom. It seems to be the stronghold of everything evil. The
 +++
 52
 ***
-The Shroomy Forest
+Joes Shroomy Forest
 ***
 A small island covered in lush, dense mushroom forests and a diner on the west side. The locals say the islands foliage is psychedelic colors but the tourists who don't eat at the restaurant say it is a dull grey.  Joe’s shroomy diner is located on the island featuring the house special fly high shroom burger. No dessert on Tuesdays, open Monday - Thursday, Featuring the Special Monday night buffet from 10 pm to 2 am.
 ***
@@ -416,9 +416,9 @@ A small island covered in lush, dense mushroom forests and a diner on the west s
 +++
 53
 ***
-Joe’s Shroomy Diner
+Joes Shroomy Diner
 ***
-Joe’s Shroomy Diner is brightly lit with hundreds of lava lamps hanging from the ceiling. It serves the finest of the local produce including red mushrooms, grey mushrooms, green mushrooms, orange mushrooms, but NEVER the yellow mushrooms. As you enter a waiter wobbles up to you and offers you a bean bag chair and as you look at the menu you notice everything is free as is the tradition on the island. The entrance into the kitchen is a beaded strings and the smells wafting from it are intoxicating.
+Joes Shroomy Diner is brightly lit with hundreds of lava lamps hanging from the ceiling. It serves the finest of the local produce including red mushrooms, grey mushrooms, green mushrooms, orange mushrooms, but NEVER the yellow mushrooms. As you enter a waiter wobbles up to you and offers you a bean bag chair and as you look at the menu you notice everything is free as is the tradition on the island. The entrance into the kitchen is a beaded strings and the smells wafting from it are intoxicating.
 ***
 {'S': 52} 
 +++
@@ -434,7 +434,7 @@ As you walk towards The Imagination Box ,The local hangout for teens, You are as
 ***
 The Jerry Garcia monument
 ***
-As you walk towards The Jerry Garcia Monument You notice it’s made of random colored metal and a music festival is going on next to it.
+As you walk towards The Jerry Garcia Monument You notice it is made of random colored metal and a music festival is going on next to it.
 ***
 {'E': 52}
 +++
