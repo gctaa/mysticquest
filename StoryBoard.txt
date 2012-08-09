@@ -2,7 +2,7 @@
 ***
 Entry
 ***
-You are trapped outside as you were traveling as a sudden and violent storm struck. Seeing a large, and presumably dry, manor, you knock on the door seeking shelter from the storm. no one answers and as you brace yourself to enter the storm again, you spot the key sticking out from under the mat. You’re now inside of the entry room. It is a reasonably large room, with some old chairs and a coat rack on the west wall, as you have entered from the south. The walls are upholstered and, and there is an ornate chandelier that has seen better days hanging from the ceiling. There is a window to the south next to the door, which is the rooms only source of light. 
+You are trapped outside as you were traveling as a sudden and violent storm struck. Seeing a large, and presumably dry, manor, you knock on the door seeking shelter from the storm. no one answers and as you brace yourself to enter the storm again, you spot the key sticking out from under the mat. You are now inside of the entry room. It is a reasonably large room, with some old chairs and a coat rack on the west wall, as you have entered from the south. The walls are upholstered and, and there is an ornate chandelier that has seen better days hanging from the ceiling. There is a window to the south next to the door, which is the rooms only source of light. 
 ***
 {'N': 1,
 'S': 16}
@@ -198,7 +198,7 @@ You keep on walking until you finally reach what seems to be the center of the f
 ***
 Northern Forest
 ***
-It's the Northern part of the forest that you have just entered...
+It is the Northern part of the forest that you have just entered...
 There is a path leading south.
 ***
 {'S': 19,
@@ -228,7 +228,7 @@ As you tread further, you come across the southern part of the forest. By now yo
 ***
 Clearing
 ***
-As you walk through the forest you suddenly come across a clearing. It’s an open expanse of land in the middle of a sea of trees. You decide to rest for a while and take in the sights. The flowers are growing in the meadows and they are a welcome attraction after all those trees.
+As you walk through the forest you suddenly come across a clearing. It is an open expanse of land in the middle of a sea of trees. You decide to rest for a while and take in the sights. The flowers are growing in the meadows and they are a welcome attraction after all those trees.
 ***
 {'N': 20,
 'E': 22,
@@ -238,7 +238,7 @@ As you walk through the forest you suddenly come across a clearing. It’s an op
 ***
 Hobbit Hiding Hole
 ***
-Your inside the Hobbit Hole which is the meeting place of a secret cult, only a chosen few know how to get inside. It is an evil group of underground people. Their ultimate goal is world domination. Don’t let their size fool you, they pack a mean kick. Their leader is known as Milo...
+Your inside the Hobbit Hole which is the meeting place of a secret cult, only a chosen few know how to get inside. It is an evil group of underground people. Their ultimate goal is world domination. Do not let their size fool you, they pack a mean kick. Their leader is known as Milo...
 ***
 {'N': 21}
 +++
@@ -246,7 +246,7 @@ Your inside the Hobbit Hole which is the meeting place of a secret cult, only a 
 ***
 Lake
 ***
-Lake, Lake Lake, It’s a Lake...
+Lake, Lake Lake, It is a Lake...
 ***
 {'N': 22,
 'S': 26}
@@ -255,7 +255,7 @@ Lake, Lake Lake, It’s a Lake...
 ***
 Stream
 ***
-A stream the flows upwards, it isn’t strange at all. You see catfish swimming in it.
+A stream the flows upwards, it is not strange at all. You see catfish swimming in it.
 ***
 {'W': 22}
 +++
@@ -272,7 +272,7 @@ You come across a bunch of slopes. Its actually quite annoying because you keep 
 ***
 Western Mountains
 ***
-A huge range of mountains suddenly appears before. You’re astounded at how a couple of small hills have turned into a vast array of mountains. They are quite tall... and it would probably hurt to fall off of one. 
+A huge range of mountains suddenly appears before. You are astounded at how a couple of small hills have turned into a vast array of mountains. They are quite tall... and it would probably hurt to fall off of one. 
 ***
 {'W': 26,
 'E': 28}
@@ -309,7 +309,7 @@ You come across a giant chasm. You look down and see complete darkness. You take
 ***
 Cave
 ***
-Surprisingly you somehow survived the ravine and have come across a cave. It’s quite dark. You decide to go inside the cave. Because what's the worst that can happen?...
+Surprisingly you somehow survived the ravine and have come across a cave. It is quite dark. You decide to go inside the cave. Because what is the worst that can happen?...
 ***
 {'E': 30,
 'S': 32}
@@ -318,7 +318,7 @@ Surprisingly you somehow survived the ravine and have come across a cave. It’s
 ***
 Secret Passageway
 ***
-You come across a secret passageway in the cave, and for some reason you decide to go into it. You minds thinking that who would program a secret passageway inside a cave, if it wouldn’t lead to something special?...
+You come across a secret passageway in the cave, and for some reason you decide to go into it. You minds thinking that who would program a secret passageway inside a cave, if it would not lead to something special?...
 ***
 {'N': 31,
 'W': 33}
@@ -327,7 +327,7 @@ You come across a secret passageway in the cave, and for some reason you decide 
 ***
 Alternate Dimension
 ***
-You come across an alternate dimension. It looks as if you’re inside some giant kaleidoscope and the ground keeps swirling in an array of colors. You feel slightly dizzy...
+You come across an alternate dimension. It looks as if you are inside some giant kaleidoscope and the ground keeps swirling in an array of colors. You feel slightly dizzy...
 ***
 {'E': 32,
 'N': 34}
@@ -380,7 +380,7 @@ As you’re walking, you see an Evil Fort. The fort is made out of stone and you
 ***
 Shadow Gate
 ***
-You stand before a gate of infinite darkness, you think that it's a great idea to jump in.
+You stand before a gate of infinite darkness, you think that it is a great idea to jump in.
 ***
 {'N': 40,
 'S': 38}
@@ -407,7 +407,7 @@ A giant foretress of doom. It seems to be the stronghold of everything evil. The
 ***
 Joes Shroomy Forest
 ***
-A small island covered in lush, dense mushroom forests and a diner on the west side. The locals say the islands foliage is psychedelic colors but the tourists who don't eat at the restaurant say it is a dull grey.  Joe’s shroomy diner is located on the island featuring the house special fly high shroom burger. No dessert on Tuesdays, open Monday - Thursday, Featuring the Special Monday night buffet from 10 pm to 2 am.
+A small island covered in lush, dense mushroom forests and a diner on the west side. The locals say the islands foliage is psychedelic colors but the tourists who do not eat at the restaurant say it is a dull grey.  Joes shroomy diner is located on the island featuring the house special fly high shroom burger. No dessert on Tuesdays, open Monday - Thursday, Featuring the Special Monday night buffet from 10 pm to 2 am.
 ***
 {'S': 41,
 'N': 53,
@@ -479,7 +479,7 @@ A flat valley that has paths leading to the north and west. It quite ordinarry. 
 ***
 Western Desert
 ***
-You come across a vast desert. The sun shines heavily on you, and start to sweat. It's a very dry place and you can't see a single plant in this place. There are paths leading east.
+You come across a vast desert. The sun shines heavily on you, and start to sweat. It is a very dry place and you cannot see a single plant in this place. There are paths leading east.
 ***
 {'W': 46,
 'E': 48}
@@ -488,7 +488,7 @@ You come across a vast desert. The sun shines heavily on you, and start to sweat
 ***
 Desert
 ***
-The Desert seems to go on for miles. You can see the sandy slopes spreading toward the horizon. It's so hot that you can see mirages. There are paths leading south and north.
+The Desert seems to go on for miles. You can see the sandy slopes spreading toward the horizon. It is so hot that you can see mirages. There are paths leading south and north.
 ***
 {'N': 50,
 'S': 49,
@@ -515,6 +515,6 @@ The sand from desert seems to end abruptly as you end up in the wastelands. Ther
 ***
 Ruins
 ***
-As you're walking through the wastlands you come across the ruins of some long forgotten castle. It seems to have been deserted ages ago. Most of  it is ruble now, but you can still see the vast size of the east tower. You realize that there are probably a bunch of hidden items here.
+As you are walking through the wastlands you come across the ruins of some long forgotten castle. It seems to have been deserted ages ago. Most of  it is ruble now, but you can still see the vast size of the east tower. You realize that there are probably a bunch of hidden items here.
 ***
 {'S': 50}
